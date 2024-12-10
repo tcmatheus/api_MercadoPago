@@ -30,3 +30,5 @@ https://www.mercadopago.com.br/developers/pt/docs/your-integrations/test/cards
 
 Lembrese de usar um navegador que nao esteja logado a sua conta propria do mercado pago pois você nao pode fazer o pagamento para si proprio. Use uma aba anonima ou limpe o seu cache para fazer os testes.
 
+
+
